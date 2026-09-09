@@ -1,3 +1,6 @@
-print('Hello world')
-print('Hello world')
-print('kaka')
+def print_message():
+    print('Я - Тимур,')
+    print('король матана.')
+print_message()
+
+print(res)
